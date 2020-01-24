@@ -1,0 +1,20 @@
+{
+    "name": "matinwd/encrypt-class",
+    "description": "A simple Encrypt for students and learning.",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Matin Noroozi",
+            "email": "100ztaa@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
